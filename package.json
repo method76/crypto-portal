@@ -1,0 +1,38 @@
+{
+  "name": "cknvb-stack-forum",
+  "version": "1.0.0",
+  "description": "The open forum based on Bulma / Vue / Nuxt / Node.js / Koa / Couchbase stack.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.12.0"
+  },
+  "scripts": {
+    "build": "run-p build:*",
+    "build:nuxt": "nuxt build",
+    "build:server": "backpack build",
+    "dev": "backpack dev",
+    "start": "npm run build && npm run serve",
+    "serve": "cross-env NODE_ENV=production node build/main.js",
+    "toc": "npx doctoc README.md --github"
+  },
+  "repository": "https://github.com/method76/cknvb-stack-forum.git",
+  "author": "Ted Kim <methodtweak@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hiswe/koa-nuxt": "^1.0.0",
+    "@nuxtjs/axios": "^5.3.6",
+    "boom": "^7.3.0",
+    "koa": "^2.6.2",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.1",
+    "nuxt": "^2.3.4",
+    "shortid": "^2.2.14",
+    "couchbase": "^2.6.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "backpack-core": "^0.8.3",
+    "npm-run-all": "^4.1.5"
+  }
+}
