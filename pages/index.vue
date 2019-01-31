@@ -10,6 +10,7 @@ export default {
   .tile.is-parent, .tile.is-child { padding: 0; }
   .tile.is-vertical>.tile.is-child:not(:last-child) { margin-bottom: 0!important; }
   .panel-icon { width: 80px;height: 80px; }
+  .panel-block { font-size: 15px; }
 </style>
 
 <template>
@@ -55,12 +56,29 @@ export default {
                   <span class="panel-icon">
                     <img width="80" height="80" src="http://portus.orange-themes.net/wp-content/uploads/2016/01/street-car-power-fast-80x80_c.jpg" alt="Dynamic Prime Factors to make BSB debut" srcset="http://portus.orange-themes.net/wp-content/uploads/2016/01/street-car-power-fast-160x160_c.jpg" data-ot-retina="http://portus.orange-themes.net/wp-content/uploads/2016/01/street-car-power-fast-160x160_c.jpg">
                   </span>
-                  Dynamic Prime Factors to make BSB debut
+                  <div>Dynamic Prime Factors to make BSB debut</div>
                 </a>
               </nav>
             </div>
           </div>
         </div>
+      </div>
+    </nav>
+    <nav class="level">
+      Media
+    </nav>
+    <nav class="level">
+      <div class="columns">
+        <div class="column">Token Post</div>
+        <div class="column">Hash Net</div>
+        <div class="column">Block Media</div>
+        <div class="column">Block Daily</div>
+        <div class="column">Coindesk Korea</div>
+        <div class="column">Investing.com</div>
+        <div class="column">Decenter</div>
+        <div class="column">Bit Web</div>
+        <div class="column">Block Inpress</div>
+        <div class="column">Crypto Graph</div>
       </div>
     </nav>
     <div class="columns">

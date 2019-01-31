@@ -16,6 +16,10 @@ export default {
 }
 </script>
 
+<style>
+html, body { font-family: "Open Sans";font-size: 13px;color: #313131; }
+</style>
+
 <template>
   <div id="app">
     <vnk-header />

@@ -3,18 +3,16 @@ export default {
   name: `vnk-footer`,
 }
 </script>
+<style>
+  p, a { color: #8d8d8d; }
+  a { font-weight: bold; }
+</style>
 
 <template>
   <footer class="footer">
     <div class="container">
       <div class="content has-text-centered">
-        <p>
-          <strong>VVNKC Starter</strong> by <a href="https://github.com/method76">Ted Kim </a>. The source code is licensed
-          <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.
-          <a class="icon" href="https://github.com/dansup/bulma-templates">
-            <i class="fa fa-github"></i>
-          </a>
-        </p>
+        <p>© 2019 Crypto Portal by <a href="https://github.com/method76">Ted Kim</a>. All rights reserved</p>
       </div>
     </div>
   </footer>
