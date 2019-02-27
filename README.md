@@ -1,42 +1,21 @@
-# koa-nuxt-example
+# crypto-portal-new
 
-small setup for koa with nuxt
+> A Vue.js project
 
-- full no-JS support
-- flash messages with koa-session
-- handle almost all server-errors with nuxt
-  can fail if Nuxt fail to render a server error…
+## Build Setup
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [launch with Node](#launch-with-node)
-  - [production mode](#production-mode)
-  - [development mode](#development-mode)
-- [launch with Docker](#launch-with-docker)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-## launch with Node
-
-to launch after cloning the projet:
-
-### production mode
-
-```sh
+``` bash
+# install dependencies
 npm install
-npm start
-```
 
-### development mode
-
-```sh
-npm install
+# serve with hot reload at localhost:8080
 npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
 ```
 
-## launch with Docker
-
-```sh
-npm run docker:start
-```
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).

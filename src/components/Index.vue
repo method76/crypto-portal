@@ -1,0 +1,350 @@
+<template>
+  <!-- Main Content -->
+  <section class="content">
+    <div class="block-header">
+      <div class="row">
+        <div class="col-sm-2">
+          <h2>미디어</h2>
+        </div>
+        <div class="col-sm-10">
+          <img src="/assets/ads/static_ad_example.png">
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div class="row clearfix media-wrapper">
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_tokenpost.svg');"></div>
+              <h6 class="mt-2 mb-0">토큰포스트</h6>
+              <a href="https://tokenpost.kr">tokenpost.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_dstreet.png');"></div>
+              <h6 class="mt-2 mb-0">디스트리트</h6>
+              <a href="https://dstreet.io">dstreet.io</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_blockinpress.png');"></div>
+              <h6 class="mt-2 mb-0">블록인프레스</h6>
+              <a href="https://blockinpress.com">blockinpress.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_trendwatching.jpg');"></div>
+              <h6 class="mt-2 mb-0">트렌드와칭</h6>
+              <a href="https://trendw.kr/category/blockchain">trendw.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_blockmedia.png');"></div>
+              <h6 class="mt-2 mb-0">블록미디어</h6>
+              <a href="https://www.blockmedia.co.kr">blockmedia.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_financialnews.png');"></div>
+              <h6 class="mt-2 mb-0">파이낸셜뉴스</h6>
+              <a href="http://www.fnnews.com/section/002010000">fnnews.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_theblockpost.png');"></div>
+              <h6 class="mt-2 mb-0">더블록포스트</h6>
+              <a href="https://blockpost.com">blockpost.com</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_blockdaily.png');"></div>
+              <h6 class="mt-2 mb-0">블록데일리</h6>
+              <a href="https://blockdaily.com">blockdaily.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_coindeskkorea.png');"></div>
+              <h6 class="mt-2 mb-0">코인데스크코리아</h6>
+              <a href="https://www.coindeskkorea.com">coindeskkorea.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div class="dark" style="background-image: url('/assets/media_logo/ic_cryptograph.png');"></div>
+              <h6 class="mt-2 mb-0">크립토그래프</h6>
+              <a href="http://cryptograph.co.kr">cryptograph.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_thebchain.png');"></div>
+              <h6 class="mt-2 mb-0">더비체인</h6>
+              <a href="http://www.thebchain.co.kr">thebchain.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_decenter.png');"></div>
+              <h6 class="mt-2 mb-0">디센터</h6>
+              <a href="https://www.decenter.kr">decenter.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_bloter.png');"></div>
+              <h6 class="mt-2 mb-0">블로터</h6>
+              <a href="https://www.bloter.net/archives/tag/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">bloter.net</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div class="dark" style="background-image: url('/assets/media_logo/ic_zdnet.png');"></div>
+              <h6 class="mt-2 mb-0">지디넷코리아</h6>
+              <a href="http://www.zdnet.co.kr/newskey/?lstcode=%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">zdnet.co.kr</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_etnews.png');"></div>
+              <h6 class="mt-2 mb-0">전자신문</h6>
+              <a href="http://www.etnews.com/news/series_list.html?id=2620">etnews.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_dt.jpg');"></div>
+              <h6 class="mt-2 mb-0">디지털타임스</h6>
+              <a href="http://www.dt.co.kr">dt.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_4th.png');"></div>
+              <h6 class="mt-2 mb-0">포쓰저널</h6>
+              <a href="http://www.4th.kr/news/articleList.html?sc_section_code=S1N10&view_type=sm">4th.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_cryptobriefing.png');"></div>
+              <h6 class="mt-2 mb-0">크립토브리핑</h6>
+              <a href="https://cryptobriefing.com">cryptobriefing.com</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_blockchainhub.svg');"></div>
+              <h6 class="mt-2 mb-0">블록체인허브</h6>
+              <a href="https://www.blockchainhub.kr">blockchainhub.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_dailycoinnews.png');"></div>
+              <h6 class="mt-2 mb-0">데일리코인뉴스</h6>
+              <a href="https://www.dailycoinews.com">dailycoinews.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div class="dark" style="background-image: url('/assets/media_logo/ic_chainnews.png');"></div>
+              <h6 class="mt-2 mb-0">체인뉴스</h6>
+              <a href="https://chainnews.kr">chainnews.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div class="dark" style="background-image: url('/assets/media_logo/ic_investingcom.png');"></div>
+              <h6 class="mt-2 mb-0">인베스팅닷컴</h6>
+              <a href="https://kr.investing.com/news/cryptocurrency-news">kr.investing.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_cointelegraph.png');"></div>
+              <h6 class="mt-2 mb-0">코인텔레그래프</h6>
+              <a href="https://cointelegraph.com">cointelegraph.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div class="dark" style="background-image: url('/assets/media_logo/ic_coinness.png');"></div>
+              <h6 class="mt-2 mb-0">코인니스</h6>
+              <a href="https://kr.coinness.com">kr.coinness.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_coinpress.jpg');"></div>
+              <h6 class="mt-2 mb-0">코인프레스</h6>
+              <a href="https://www.coinpress.co.kr">coinpress.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_moneynet.png');"></div>
+              <h6 class="mt-2 mb-0">머니넷</h6>
+              <a href="https://www.moneynet.co.kr/info_board">moneynet.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_cointoday.png');"></div>
+              <h6 class="mt-2 mb-0">코인투데이</h6>
+              <a href="http://cointoday.co.kr">cointoday.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_coinreaders.jpg');"></div>
+              <h6 class="mt-2 mb-0">코인리더스</h6>
+              <a href="http://www.coinreaders.com">coinreaders.com</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_coincode.png');"></div>
+              <h6 class="mt-2 mb-0">코인코드</h6>
+              <a href="https://coincode.kr">coincode.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_hashnet.png');"></div>
+              <h6 class="mt-2 mb-0">해시넷</h6>
+              <a href="http://www.hash.kr">hash.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_paxnetnews.png');"></div>
+              <h6 class="mt-2 mb-0">팍스넷뉴스</h6>
+              <a href="http://paxnetnews.com/hotTag1">paxnetnews.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_coinbus.png');"></div>
+              <h6 class="mt-2 mb-0">코인버스</h6>
+              <a href="https://coinbus.co.kr">coinbus.co.kr</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_blockchainvalley.png');"></div>
+              <h6 class="mt-2 mb-0">블록체인밸리</h6>
+              <a href="http://www.fintechpost.co.kr">fintechpost.co.kr</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_blocktimestvdotcom.png');"></div>
+              <h6 class="mt-2 mb-0">블록타임스TV닷컴</h6>
+              <a href="http://blocktimestv.com">blocktimestv.com</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card w_data_1">
+            <div class="body">
+              <div style="background-image: url('/assets/media_logo/ic_bitweb.png');"></div>
+              <h6 class="mt-2 mb-0">비트웹</h6>
+              <a href="http://bitweb.co.kr">bitweb.co.kr</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</template>
+
+<script>
+export default {
+  // name: 'Index',
+  data () {
+    return {
+      msg: 'Welcome to Your Vue.js App'
+    }
+  }
+}
+</script>
