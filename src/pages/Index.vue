@@ -20,38 +20,26 @@
             </div>
             <div class="table-responsive">
               <table class="table table-hover theme-color c_table">
-                <thead>
-                <tr>
-                  <th>제목</th>
-                  <th></th>
-                  <th>미디어</th>
-                </tr>
-                </thead>
                 <tbody>
                 <tr>
                   <td class="w70"><img class="w50" src="assets/images/ecommerce/1.png" alt=""></td>
                   <td><a href="javascript:void(0)" class="text-muted">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가 [23]</a></td>
-                  <td>3,432</td>
                 </tr>
                 <tr>
                   <td><img class="w50" src="assets/images/ecommerce/2.png" alt=""></td>
                   <td><a href="javascript:void(0)" class="text-muted">채굴 서비스 ‘코인하이브(Coinhive)’, 내달 운영 중단 밝혀 [12]</a></td>
-                  <td>852</td>
                 </tr>
                 <tr>
                   <td><img class="w50" src="assets/images/ecommerce/3.png" alt=""></td>
                   <td><a href="javascript:void(0)" class="text-muted">체인스, ‘퍼블리시’ 프로토콜 IEO 진행…내달 25일부터 [6]</a></td>
-                  <td>1,321</td>
                 </tr>
                 <tr>
                   <td><img class="w50" src="assets/images/ecommerce/4.png" alt=""></td>
                   <td><a href="javascript:void(0)" class="text-muted">모펫네이던슨 애널리스트, “암호화폐, 주목할만한 결제 시스템…파급 효과는 ‘아직’” [5]</a></td>
-                  <td>980</td>
                 </tr>
                 <tr>
                   <td><img class="w50" src="assets/images/ecommerce/5.png" alt=""></td>
                   <td><a href="javascript:void(0)" class="text-muted">퍼블리시, 체인스 랩스 ‘우수 디앱(DApp) 프로젝트’ 선정 [5]</a></td>
-                  <td>2,518</td>
                 </tr>
                 </tbody>
               </table>
@@ -105,58 +93,13 @@
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_financialnews.png');"></div>
-                  <h6 class="mt-2 mb-0">파이낸셜뉴스</h6>
-                  <a href="http://www.fnnews.com/section/002010000">fnnews.com</a>
-                </div>
-              </div>
-            </div>
+
             <div class="col">
               <div class="card w_data_1">
                 <div class="body">
                   <div style="background-image: url('/assets/media_logo/ic_theblockpost.png');"></div>
                   <h6 class="mt-2 mb-0">더블록포스트</h6>
                   <a href="https://blockpost.com">blockpost.com</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_blockdaily.png');"></div>
-                  <h6 class="mt-2 mb-0">블록데일리</h6>
-                  <a href="https://blockdaily.com">blockdaily.com</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_coindeskkorea.png');"></div>
-                  <h6 class="mt-2 mb-0">코인데스크코리아</h6>
-                  <a href="https://www.coindeskkorea.com">coindeskkorea.com</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div class="dark" style="background-image: url('/assets/media_logo/ic_cryptograph.png');"></div>
-                  <h6 class="mt-2 mb-0">크립토그래프</h6>
-                  <a href="http://cryptograph.co.kr">cryptograph.co.kr</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_thebchain.png');"></div>
-                  <h6 class="mt-2 mb-0">더비체인</h6>
-                  <a href="http://www.thebchain.co.kr">thebchain.co.kr</a>
                 </div>
               </div>
             </div>
@@ -172,46 +115,18 @@
             <div class="col">
               <div class="card w_data_1">
                 <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_bloter.png');"></div>
-                  <h6 class="mt-2 mb-0">블로터</h6>
-                  <a href="https://www.bloter.net/archives/tag/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">bloter.net</a>
+                  <div style="background-image: url('/assets/media_logo/ic_blockdaily.png');"></div>
+                  <h6 class="mt-2 mb-0">블록데일리</h6>
+                  <a href="https://blockdaily.com">blockdaily.com</a>
                 </div>
               </div>
             </div>
             <div class="col">
               <div class="card w_data_1">
                 <div class="body">
-                  <div class="dark" style="background-image: url('/assets/media_logo/ic_zdnet.png');"></div>
-                  <h6 class="mt-2 mb-0">지디넷코리아</h6>
-                  <a href="http://www.zdnet.co.kr/newskey/?lstcode=%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">zdnet.co.kr</a>
-                </div>
-              </div>
-            </div>
-
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_etnews.png');"></div>
-                  <h6 class="mt-2 mb-0">전자신문</h6>
-                  <a href="http://www.etnews.com/news/series_list.html?id=2620">etnews.com</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_dt.jpg');"></div>
-                  <h6 class="mt-2 mb-0">디지털타임스</h6>
-                  <a href="http://www.dt.co.kr">dt.co.kr</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_4th.png');"></div>
-                  <h6 class="mt-2 mb-0">포쓰저널</h6>
-                  <a href="http://www.4th.kr/news/articleList.html?sc_section_code=S1N10&view_type=sm">4th.kr</a>
+                  <div style="background-image: url('/assets/media_logo/ic_coindeskkorea.png');"></div>
+                  <h6 class="mt-2 mb-0">코인데스크코리아</h6>
+                  <a href="https://www.coindeskkorea.com">coindeskkorea.com</a>
                 </div>
               </div>
             </div>
@@ -252,6 +167,81 @@
                 </div>
               </div>
             </div>
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div class="dark" style="background-image: url('/assets/media_logo/ic_cryptograph.png');"></div>
+                  <h6 class="mt-2 mb-0">크립토그래프</h6>
+                  <a href="http://cryptograph.co.kr">cryptograph.co.kr</a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div style="background-image: url('/assets/media_logo/ic_thebchain.png');"></div>
+                  <h6 class="mt-2 mb-0">더비체인</h6>
+                  <a href="http://www.thebchain.co.kr">thebchain.co.kr</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div style="background-image: url('/assets/media_logo/ic_bloter.png');"></div>
+                  <h6 class="mt-2 mb-0">블로터</h6>
+                  <a href="https://www.bloter.net/archives/tag/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">bloter.net</a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div class="dark" style="background-image: url('/assets/media_logo/ic_zdnet.png');"></div>
+                  <h6 class="mt-2 mb-0">지디넷코리아</h6>
+                  <a href="http://www.zdnet.co.kr/newskey/?lstcode=%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">zdnet.co.kr</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div style="background-image: url('/assets/media_logo/ic_etnews.png');"></div>
+                  <h6 class="mt-2 mb-0">전자신문</h6>
+                  <a href="http://www.etnews.com/news/series_list.html?id=2620">etnews.com</a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div style="background-image: url('/assets/media_logo/ic_dt.jpg');"></div>
+                  <h6 class="mt-2 mb-0">디지털타임스</h6>
+                  <a href="http://www.dt.co.kr">dt.co.kr</a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div style="background-image: url('/assets/media_logo/ic_financialnews.png');"></div>
+                  <h6 class="mt-2 mb-0">파이낸셜뉴스</h6>
+                  <a href="http://www.fnnews.com/section/002010000">fnnews.com</a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card w_data_1">
+                <div class="body">
+                  <div style="background-image: url('/assets/media_logo/ic_4th.png');"></div>
+                  <h6 class="mt-2 mb-0">포쓰저널</h6>
+                  <a href="http://www.4th.kr/news/articleList.html?sc_section_code=S1N10&view_type=sm">4th.kr</a>
+                </div>
+              </div>
+            </div>
+
             <div class="col">
               <div class="card w_data_1">
                 <div class="body">
