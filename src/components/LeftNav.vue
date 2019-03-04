@@ -30,7 +30,8 @@
         <li>
           <a href="index.html"><i class="zmdi zmdi-home"></i><span>기념품샵</span></a>
         </li>
-        <li><a href="javascript:void(0);" class="menu-toggle"><i class="zmdi zmdi-apps"></i><span>App</span></a>
+        <li>
+          <a href="javascript:void(0);" class="menu-toggle"><i class="zmdi zmdi-apps"></i><span>App</span></a>
           <ul class="ml-menu">
             <li><a href="mail-inbox.html">Email</a></li>
             <li><a href="chat.html">Chat Apps</a></li>
