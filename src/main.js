@@ -3,8 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Ads from 'vue-google-adsense'
 
 Vue.config.productionTip = false
+
+Vue.use(require('vue-script2'))
+Vue.use(Ads.Adsense)
 
 /* eslint-disable no-new */
 new Vue({
