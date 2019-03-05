@@ -18,30 +18,33 @@
       <div class="row clearfix media-wrapper">
         <div class="col-lg-5 col-12">
           <div class="card">
-            <div class="header">
-              <h2>최신 <strong>블록체인</strong> 뉴스</h2>
-            </div>
             <div class="table-responsive">
-              <table class="table table-hover">
+              <table class="table table-striped m-b-0 footable footable-1 footable-paging footable-paging-center breakpoint-lg" style="">
+                <thead>
+                <tr class="footable-header">
+                  <th class="footable-sortable footable-first-visible" style="display: table-cell;"><strong>블록체인</strong> 뉴스</th>
+                </tr>
+                </thead>
                 <tbody>
                 <tr>
-                  <!--<td class="w70"><img class="w50" src="assets/images/ecommerce/1.png" alt=""></td>-->
-                  <td><a href="javascript:void(0)" class="text-muted ellipsis">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가 [23]</a></td>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6013" class="text-muted ellipsis" target="_blank">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가</a></td>
+                  <!--<td style="display: table-cell;">미디어<span class="fooicon fooicon-sort"></span></td>-->
                 </tr>
                 <tr>
-                  <td><a href="javascript:void(0)" class="text-muted ellipsis">채굴 서비스 ‘코인하이브(Coinhive)’, 내달 운영 중단 밝혀 [12]</a></td>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6051" class="text-muted ellipsis" target="_blank">스타벅스, 백트(Bakkt) 파트너십 일환 ‘암호화폐’ 결제 가능성 제기돼</a></td>
                 </tr>
                 <tr>
-                  <td><a href="javascript:void(0)" class="text-muted ellipsis">체인스, ‘퍼블리시’ 프로토콜 IEO 진행…내달 25일부터 [6]</a></td>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6050" class="text-muted ellipsis" target="_blank">서클, ‘시드인베스트(SeedInvest)’ 인수 완료…크라우드펀딩·토큰화 결합</a></td>
                 </tr>
                 <tr>
-                  <td><a href="javascript:void(0)" class="text-muted ellipsis">모펫네이던슨 애널리스트, “암호화폐, 주목할만한 결제 시스템…파급 효과는 ‘아직’” [5]</a></td>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6044" class="text-muted ellipsis" target="_blank">리플, 샌프란시스코 베이 ‘일하기 좋은 중소기업’ 선정</a></td>
                 </tr>
                 <tr>
-                  <td><a href="javascript:void(0)" class="text-muted ellipsis">퍼블리시, 체인스 랩스 ‘우수 디앱(DApp) 프로젝트’ 선정 [5]</a></td>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
                 </tr>
                 </tbody>
               </table>
+
             </div>
           </div>
         </div>
