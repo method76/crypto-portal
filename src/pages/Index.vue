@@ -44,9 +44,39 @@
                 </tr>
                 </tbody>
               </table>
-
             </div>
           </div>
+
+          <div class="card">
+            <div class="table-responsive">
+              <table class="table table-striped m-b-0 footable footable-1 footable-paging footable-paging-center breakpoint-lg" style="">
+                <thead>
+                <tr class="footable-header">
+                  <th class="footable-sortable footable-first-visible" style="display: table-cell;"><strong>암호화폐</strong> 소셜네트워크</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6013" class="text-muted ellipsis" target="_blank">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가</a></td>
+                  <!--<td style="display: table-cell;">미디어<span class="fooicon fooicon-sort"></span></td>-->
+                </tr>
+                <tr>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6051" class="text-muted ellipsis" target="_blank">스타벅스, 백트(Bakkt) 파트너십 일환 ‘암호화폐’ 결제 가능성 제기돼</a></td>
+                </tr>
+                <tr>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6050" class="text-muted ellipsis" target="_blank">서클, ‘시드인베스트(SeedInvest)’ 인수 완료…크라우드펀딩·토큰화 결합</a></td>
+                </tr>
+                <tr>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6044" class="text-muted ellipsis" target="_blank">리플, 샌프란시스코 베이 ‘일하기 좋은 중소기업’ 선정</a></td>
+                </tr>
+                <tr>
+                  <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
+                </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+
         </div>
 
         <div class="col-lg-7 col-12">
