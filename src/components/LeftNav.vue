@@ -2,7 +2,8 @@
   <!-- Left Sidebar -->
   <aside id="leftsidebar" class="sidebar">
     <div class="navbar-brand">
-      <router-link to="/"><img src="assets/images/logo.svg" width="25" alt="Aero"><span class="m-l-10">4th Life</span></router-link>
+      <router-link to="/"><img src="assets/images/logo.png" alt="4th"></router-link>
+      <button class="btn btn-primary btn-icon mobile_menu" type="button"><i class="zmdi zmdi-sort-amount-desc"></i></button>
     </div>
     <div class="menu">
       <ul class="list">
@@ -37,3 +38,8 @@
     </div>
   </aside>
 </template>
+
+<style>
+.btn-primary:not(:disabled):not(.disabled):active { margin-right: -70px; }
+.btn.mobile_menu { color: #fff;background-color: #ddd;border: 1px solid #666;color: #888; }
+</style>

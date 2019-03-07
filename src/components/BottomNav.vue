@@ -1,11 +1,30 @@
 <template>
-  <nav id="bottomnavbar">
-    <div class="navbar-brand">
-      © Kittychain Inc. All rights reserved.&nbsp;
+  <div class="container-fluid h-100 footer">
+    <div class="row h-100 justify-content-center align-items-center">
+      <div class="col-lg-7 col-12 footer-copy d-flex justify-content-center">
+        <p>"4th life" service is provided by © Kittychain Inc. All rights reserved.</p>
+      </div>
+      <div class="col-lg-2 col-12 d-flex justify-content-center">
+        <a href="https://www.facebook.com/cryptosticker"><i class="zmdi zmdi-facebook-box"></i></a>&nbsp;
+        <a href="https://www.instagram.com/kittychain_shop"><i class="zmdi zmdi-instagram"></i></a>&nbsp;
+        <a href="https://twitter.com/KittychainI"><i class="zmdi zmdi-twitter-box"></i></a>&nbsp;
+        <a href="https://github.com/method76"><i class="zmdi zmdi-github-box"></i></a>
+      </div>
+      <div class="col-lg-3 col-12">
+        <img class="float-right m-r-15" src="/assets/certs/positivessl_trust_seal_md_167x42.png">
+      </div>
     </div>
-  </nav>
+  </div>
 </template>
 
-<style>
+<!--
+<script language="JavaScript" type="text/javascript" async defer>
+TrustLogo("/assets/certs/positivessl_trust_seal_md_167x42.png", "CL1", "none");
+</script>
+-->
 
+<style>
+  .zmdi { font-size: 25px; }
+  .container-fluid.footer .col-12 { padding: 10px; }
+  .container-fluid.footer p, .container-fluid.footer a { color: #555; }
 </style>

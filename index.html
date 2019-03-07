@@ -23,25 +23,31 @@
   #leftsidebar { max-width: 170px; }
   .sidebar .menu .list { margin: 0px; }
   ul.list li { padding-left: 10px; }
-  /* ul.list li:last-child { margin: 0 -10px; } */
-  section.content { margin-left: 170px;margin-right: 10px; }
+  section.content { margin: 10px 10px 10px 180px; }
   .media-wrapper-parent { padding-right: 10px;padding-left: 10px; }
   .media-wrapper .col { min-width: 120px;padding-right: 3px;padding-left: 3px; }
   .media-wrapper .col .card.w_data_1 { margin-bottom: 6px;box-shadow: 1px 1px 4px #aaaaaa; }
-  .media-wrapper .col .card .body { padding: 0.35rem 13px;min-height: 82px; }
+  .media-wrapper .col .card .body { padding: 0 13px;min-height: 66px; }
   .media-wrapper .col .card .body > div { height: 46px;background-position-y: center;
     background-position-x: center;background-repeat: no-repeat;margin: 0 -13px;
     background-size: 120px;background-color: white; }
   .media-wrapper .col .card .body > div.dark { background-color: black; }
   .media-wrapper .col .card .body a { font-size: 12px;margin: 0 -13px; }
-  .navbar-brand span { font-size: 13px;color: #aaa; }
-  .ellipse { white-space: nowrap;overflow: hidden;text-overflow: ellipsis; }
+  .navbar-brand span { font-size: 25px;font-weight: bold; }
+  .ellipsis { white-space: nowrap;overflow: hidden;word-break: break-all;text-overflow: ellipsis; }
   .table-hover td {
     background-color: white;border-radius: 6px;border-top: 0; }    padding: 10px 10px;
   #bottomnavbar { height: 200px;text-decoration: none;text-align: right;background-color: #333;
     color: #aaa;padding: 10px 10px; }
-  #bottomnavbar a { width: inherit;position: absolute;right: 0; }
-  .navbar-brand { border-bottom: 0;padding: 0; }
+  #bottomnavbar .cert-logos img { float: right; }
+  .navbar-brand { height: 60px; }
+  .navbar-brand .zmdi { font-size: 25px; }
+  table.articles th, table.socials { border-top: 0; }
+  table.articles td, table.socials td { padding: .25rem .75rem; }
+  .footer-copy { font-size: 12px; }
+  .row h3 { margin-top: 10px; }
+  .footer { background-color: #888;border-radius: 6px; }
+
 </style>
 
 <script type="text/javascript" async defer>
@@ -70,15 +76,6 @@
 <body class="theme-blush">
 
 <div id="app"></div>
-
-<nav id="bottomnavbar">
-  <div class="navbar-brand">
-    <span>© Kittychain Inc. All rights reserved.</span>
-    <script language="JavaScript" type="text/javascript" async defer>
-      TrustLogo("/assets/certs/positivessl_trust_seal_md_167x42.png", "CL1", "none");
-    </script>
-  </div>
-</nav>
 
 <!-- Jquery Core Js -->
 <script src="assets/bundles/libscripts.bundle.js"></script> <!-- Lib Scripts Plugin Js ( jquery.v3.2.1, Bootstrap4 js) -->
