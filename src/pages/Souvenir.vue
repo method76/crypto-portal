@@ -69,7 +69,7 @@
     </div>
   </div>
 </template>
-
+section.content
 <style scope>
 .naver-buy-button {
   display: inline-block;
