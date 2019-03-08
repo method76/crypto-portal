@@ -15,47 +15,82 @@
       <!-- 가로 광고 End -->
 
       <div class="row clearfix media-wrapper">
-        <div class="col-12">
-          <h3><strong>블록체인</strong> 뉴스</h3>
-        </div>
-      </div>
-
-      <div class="row clearfix media-wrapper">
         <!-- 미디어 기사 목록 #1 Start -->
         <div class="col-lg-5 col-12 media-latest">
-          <div class="card">
-            <div class="body">
-              <div class="table-responsive">
-                <table class="table table-striped m-b-0 footable footable-1 footable-paging footable-paging-center breakpoint-lg articles" style="">
-                  <tbody>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6013" class="text-muted ellipsis" target="_blank">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가</a></td>
-                    <!--<td style="display: table-cell;">미디어<span class="fooicon fooicon-sort"></span></td>-->
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6051" class="text-muted ellipsis" target="_blank">스타벅스, 백트(Bakkt) 파트너십 일환 ‘암호화폐’ 결제 가능성 제기돼</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6050" class="text-muted ellipsis" target="_blank">서클, ‘시드인베스트(SeedInvest)’ 인수 완료…크라우드펀딩·토큰화 결합</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6044" class="text-muted ellipsis" target="_blank">리플, 샌프란시스코 베이 ‘일하기 좋은 중소기업’ 선정</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
-                  </tr>
-                  </tbody>
-                </table>
+          <div class="row">
+            <div class="card">
+              <div class="row">
+                <h3><strong>블록체인</strong> 뉴스</h3>
+              </div>
+              <div class="body">
+                <div class="table-responsive">
+                  <table class="table table-striped m-b-0 footable footable-1 footable-paging footable-paging-center breakpoint-lg articles" style="">
+                    <tbody>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6013" class="text-muted ellipsis" target="_blank">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6051" class="text-muted ellipsis" target="_blank">스타벅스, 백트(Bakkt) 파트너십 일환 ‘암호화폐’ 결제 가능성 제기돼</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6050" class="text-muted ellipsis" target="_blank">서클, ‘시드인베스트(SeedInvest)’ 인수 완료…크라우드펀딩·토큰화 결합</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6044" class="text-muted ellipsis" target="_blank">리플, 샌프란시스코 베이 ‘일하기 좋은 중소기업’ 선정</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-        <!-- 미디어 기사 목록 #1 End -->
 
-        <div class="col-lg-7 col-12">
+          <div class="row clearfix media-wrapper">
+            <!-- 소셜 글 목록 #1 Start -->
+            <div class="card">
+              <div class="row">
+                <h3><strong>암호화폐</strong> 소셜네트워크</h3>
+              </div>
+              <div class="body">
+                <div class="table-responsive">
+                  <table class="table table-striped m-b-0 footable footable-1 footable-paging footable-paging-center breakpoint-lg socials" style="">
+                    <tbody>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6013" class="text-muted ellipsis" target="_blank">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가</a></td>
+                      <!--<td style="display: table-cell;">미디어<span class="fooicon fooicon-sort"></span></td>-->
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6051" class="text-muted ellipsis" target="_blank">스타벅스, 백트(Bakkt) 파트너십 일환 ‘암호화폐’ 결제 가능성 제기돼</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6050" class="text-muted ellipsis" target="_blank">서클, ‘시드인베스트(SeedInvest)’ 인수 완료…크라우드펀딩·토큰화 결합</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6044" class="text-muted ellipsis" target="_blank">리플, 샌프란시스코 베이 ‘일하기 좋은 중소기업’ 선정</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
+                    </tr>
+                    <tr>
+                      <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+            <!-- 소셜 글 목록 #1 End -->
+          </div>
+        <!-- 미디어 기사 목록 #1 End -->
+        </div>
+
+        <div class="col-lg-7 col-12 right-content">
           <div class="row clearfix">
             <div class="col">
               <div class="card w_data_1">
@@ -194,111 +229,7 @@
                 </div>
               </div>
             </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_bloter.png');"></div>
-                  <!--<h6 class="mt-2 mb-0">블로터</h6>-->
-                  <a href="https://www.bloter.net/archives/tag/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">bloter.net</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div class="dark" style="background-image: url('/assets/media_logo/ic_zdnet.png');"></div>
-                  <!--<h6 class="mt-2 mb-0">지디넷코리아</h6>-->
-                  <a href="http://www.zdnet.co.kr/newskey/?lstcode=%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8">zdnet.co.kr</a>
-                </div>
-              </div>
-            </div>
 
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_etnews.png');"></div>
-                  <!--<h6 class="mt-2 mb-0">전자신문</h6>-->
-                  <a href="http://www.etnews.com/news/series_list.html?id=2620">etnews.com</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_dt.jpg');"></div>
-                  <!--<h6 class="mt-2 mb-0">디지털타임스</h6>-->
-                  <a href="http://www.dt.co.kr">dt.co.kr</a>
-                </div>
-              </div>
-            </div>
-            <div class="col">
-              <div class="card w_data_1">
-                <div class="body">
-                  <div style="background-image: url('/assets/media_logo/ic_financialnews.png');"></div>
-                  <!--<h6 class="mt-2 mb-0">파이낸셜뉴스</h6>-->
-                  <a href="http://www.fnnews.com/section/002010000">fnnews.com</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- 가로 광고 Start -->
-      <div class="row">
-        <div class="col-12">
-          <Adsense
-            data-ad-client="ca-pub-7663265873201714"
-            data-ad-slot="3941948313">
-          </Adsense>
-        </div>
-      </div>
-      <!-- 가로 광고 End -->
-
-      <div class="row">
-        <div class="col-12">
-          <h3><strong>암호화폐</strong> 소셜네트워크</h3>
-        </div>
-      </div>
-
-      <div class="row clearfix media-wrapper">
-
-        <!-- 소셜 글 목록 #1 Start -->
-        <div class="col-lg-5 col-12">
-          <div class="card">
-            <div class="body">
-              <div class="table-responsive">
-                <table class="table table-striped m-b-0 footable footable-1 footable-paging footable-paging-center breakpoint-lg socials" style="">
-                  <tbody>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6013" class="text-muted ellipsis" target="_blank">日 작년 암호화폐 관련 자금 세탁 ‘10배’ 증가</a></td>
-                    <!--<td style="display: table-cell;">미디어<span class="fooicon fooicon-sort"></span></td>-->
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6051" class="text-muted ellipsis" target="_blank">스타벅스, 백트(Bakkt) 파트너십 일환 ‘암호화폐’ 결제 가능성 제기돼</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6050" class="text-muted ellipsis" target="_blank">서클, ‘시드인베스트(SeedInvest)’ 인수 완료…크라우드펀딩·토큰화 결합</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6044" class="text-muted ellipsis" target="_blank">리플, 샌프란시스코 베이 ‘일하기 좋은 중소기업’ 선정</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
-                  </tr>
-                  <tr>
-                    <td class="footable-first-visible" style="display: table-cell;"><a href="https://tokenpost.kr/article-6036" class="text-muted ellipsis" target="_blank">트론·테더, 2019년 2분기 트론 네트워크 내 USDT 발행 파트너십 체결</a></td>
-                  </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- 소셜 글 목록 #1 End -->
-
-        <div class="col-lg-7 col-12">
-          <div class="row clearfix">
             <div class="col">
               <div class="card w_data_1">
                 <div class="body">
@@ -409,7 +340,6 @@
                 </div>
               </div>
             </div>
-
             <div class="col">
               <div class="card w_data_1">
                 <div class="body">
@@ -440,8 +370,33 @@
           </div>
         </div>
       </div>
+
+      <!-- 가로 광고 Start -->
+      <!--<div class="row">-->
+        <!--<div class="col-12">-->
+          <!--<Adsense-->
+            <!--data-ad-client="ca-pub-7663265873201714"-->
+            <!--data-ad-slot="3941948313">-->
+          <!--</Adsense>-->
+        <!--</div>-->
+      <!--</div>-->
+      <!-- 가로 광고 End -->
       <!-- Row End -->
 
+      <div class="row clearfix media-wrapper">
+        <!-- 소셜 글 목록 #1 Start -->
+        <div class="col-lg-5 col-12 ticker-area">
+            <coingecko-coin-list-widget  coin-ids="bitcoin,eos,ethereum,ripple" currency="usd" locale="ko"></coingecko-coin-list-widget>
+        </div>
+      </div>
+      <div class="col-lg-7 col-12">
+        <div class="row clearfix">
+          <div class="col">
+            <!--<coingecko-coin-price-static-headline-widget coin-ids="bitcoin" currency="krw" locale="ko"></coingecko-coin-price-static-headline-widget>-->
+            <!--<coingecko-coin-list-widget  coin-ids="bitcoin,eos,ethereum,ripple" currency="usd" locale="ko"></coingecko-coin-list-widget>-->
+          </div>
+        </div>
+      </div>
     </div>
 
   </div>

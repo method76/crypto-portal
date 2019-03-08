@@ -2,7 +2,7 @@
   <div class="container-fluid h-100 footer">
     <div class="row h-100 justify-content-center align-items-center">
       <div class="col-lg-7 col-12 footer-copy d-flex justify-content-center">
-        <p>"4th life" service is provided by © Kittychain Inc. All rights reserved.</p>
+        <p>The services of "4th life" are provided by Kittychain. © 2019 Kittychain. All rights reserved.</p>
       </div>
       <div class="col-lg-2 col-12 d-flex justify-content-center">
         <a href="https://www.facebook.com/cryptosticker"><i class="zmdi zmdi-facebook-box"></i></a>&nbsp;

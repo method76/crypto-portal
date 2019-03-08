@@ -3,6 +3,7 @@
     <PageLoader />
     <Overlay />
     <!-- Main Content -->
+    <coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,eos,ripple,litecoin" currency="krw" background-color="#ffffff" locale="ko"></coingecko-coin-price-marquee-widget>
     <section class="content">
       <LeftNav />
       <router-view/>
