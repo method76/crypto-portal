@@ -386,7 +386,7 @@
       <div class="row clearfix media-wrapper">
         <!-- 소셜 글 목록 #1 Start -->
         <div class="col-lg-5 col-12 ticker-area">
-            <coingecko-coin-list-widget  coin-ids="bitcoin,eos,ethereum,ripple" currency="usd" locale="ko"></coingecko-coin-list-widget>
+            <coingecko-coin-list-widget  coin-ids="bitcoin,eos,ethereum,ripple" currency="krw" locale="ko"></coingecko-coin-list-widget>
         </div>
       </div>
       <div class="col-lg-7 col-12">

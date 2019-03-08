@@ -19,8 +19,14 @@
         <router-link to="/media" tag="li" class="open" active-class="active">
           <a><i class="zmdi zmdi-folder"></i><span>미디어</span></a>
         </router-link>
-        <router-link to="/explorer" tag="li" class="open" active-class="active">
+        <router-link to="/explorer" tag="li" class="" active-class="active">
           <a><i class="zmdi zmdi-grid"></i><span>블록탐색기</span></a>
+          <ul class="ml-menu" style="display: block;">
+            <li><a href="/explorer/BTC" class=" waves-effect waves-block">비트코인</a></li>
+            <li><a href="/explorer/ETH" class=" waves-effect waves-block">이더리움</a></li>
+            <li><a href="/explorer/EOS" class=" waves-effect waves-block">EOS</a></li>
+            <li><a href="/explorer/XRP" class=" waves-effect waves-block">리플</a></li>
+          </ul>
         </router-link>
         <router-link to="/solution" tag="li" class="open" active-class="active">
           <a><i class="zmdi zmdi-swap-alt"></i><span>솔루션</span></a>
