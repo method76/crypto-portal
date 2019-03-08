@@ -8,7 +8,7 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid product-grid">
       <div class="row clearfix">
         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12">
           <div class="card">
@@ -78,6 +78,8 @@
   background: url(https://img-shop.pstatic.net/smartstore/pc/dist/renew/img/auto-gen/20190227/164534/sp_skin_png24_180222.png) no-repeat;
 }
 .old_price { text-decoration-line: line-through; }
+.product-grid .img-fluid {
+  min-height: 327px; }
 </style>
 <script>
 export default {
