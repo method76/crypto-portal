@@ -4,11 +4,13 @@
     <Overlay />
     <!-- Main Content -->
     <coingecko-coin-price-marquee-widget  coin-ids="bitcoin,ethereum,eos,ripple,litecoin" currency="krw" background-color="#ffffff" locale="ko"></coingecko-coin-price-marquee-widget>
-    <section class="content">
+    <div class="contents-wrapper">
       <LeftNav />
-      <router-view/>
-      <BottomNav/>
-    </section>
+      <section class="content">
+        <router-view/>
+        <BottomNav/>
+      </section>
+    </div>
   </div>
 </template>
 

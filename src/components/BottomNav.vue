@@ -9,7 +9,7 @@
         <a href="https://www.instagram.com/kittychain_shop"><i class="zmdi zmdi-instagram"></i></a>&nbsp;
         <a href="https://twitter.com/KittychainI"><i class="zmdi zmdi-twitter-box"></i></a>&nbsp;
         <a href="https://github.com/method76"><i class="zmdi zmdi-github-box"></i></a>
-        <a href="https://medium.com/@method76"><img src="/images/ic_medium.png"></a>
+        <a href="https://medium.com/@method76"><img src="/assets/images/ic_medium.png"></a>
         <a href="#"><i class="zmdi zmdi-youtube-play"></i></a>
       </div>
       <div class="col-lg-3 col-12">
@@ -28,5 +28,5 @@ TrustLogo("/assets/certs/positivessl_trust_seal_md_167x42.png", "CL1", "none");
 <style>
 .zmdi { font-size: 25px; }
 .container-fluid.footer .col-12 { padding: 10px; }
-.container-fluid.footer p, .container-fluid.footer a { color: #555; }
+.container-fluid.footer p, .container-fluid.footer a { color: white; }
 </style>

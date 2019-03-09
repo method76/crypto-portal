@@ -1,48 +1,29 @@
 <template>
   <!-- Left Sidebar -->
-  <aside id="leftsidebar" class="sidebar">
-    <div class="navbar-brand">
-      <router-link to="/"><img src="assets/images/logo.png" alt="4th"></router-link>
-      <button class="btn btn-primary btn-icon mobile_menu" type="button"><i class="zmdi zmdi-sort-amount-desc"></i></button>
+  <div>
+    <div class="navbar-brand row">
+      <div class="col-lg-3 col-3">
+        <button class="btn btn-primary btn-icon mobile_menu" type="button"><i class="zmdi zmdi-sort-amount-desc"></i></button>
+        <router-link to="/"><img src="assets/images/logo.png" alt="4th"></router-link>
+      </div>
+      <div class="col-lg-6 col-5">
+        <ul class="nav nav-tabs p-0 mb-3" role="tablist">
+          <li class="nav-item"><router-link to="/media" active-class="active" class="nav-link"><i class="zmdi zmdi-folder"></i> 미디어 </router-link></li>
+          <li class="nav-item"><router-link to="/explorer" active-class="active" class="nav-link"><i class="zmdi zmdi-grid"></i> 블록탐색기 </router-link></li>
+          <li class="nav-item"><router-link to="/solution" active-class="active" class="nav-link"><i class="zmdi zmdi-swap-alt"></i> 솔루션 </router-link></li>
+          <li class="nav-item"><router-link to="/souvenir" active-class="active" class="nav-link"><i class="zmdi zmdi-shopping-cart"></i> 기념품샵 </router-link></li>
+        </ul>
+      </div>
+      <div class="col-lg-3 col-4  d-flex justify-content-center">
+        <a href="https://www.facebook.com/cryptosticker"><i class="zmdi zmdi-facebook-box"></i></a>&nbsp;
+        <a href="https://www.instagram.com/kittychain_shop"><i class="zmdi zmdi-instagram"></i></a>&nbsp;
+        <a href="https://twitter.com/KittychainI"><i class="zmdi zmdi-twitter-box"></i></a>&nbsp;
+        <a href="https://github.com/method76"><i class="zmdi zmdi-github-box"></i></a>
+        <a href="https://medium.com/@method76"><img src="/assets/images/ic_medium.png"></a>
+        <a href="#"><i class="zmdi zmdi-youtube-play"></i></a>
+      </div>
     </div>
-    <div class="menu">
-      <ul class="list">
-        <!--<li>
-          <div class="user-info">
-            <a class="image" href="profile.html"><img src="assets/images/profile_av.jpg" alt="User"></a>
-            <div class="detail">
-              <h4>Anonymous</h4>
-              <small>Please Login</small>
-            </div>
-          </div>
-        </li>-->
-        <router-link to="/media" tag="li" class="open" active-class="active">
-          <a><i class="zmdi zmdi-folder"></i><span>미디어</span></a>
-        </router-link>
-        <router-link to="/explorer" tag="li" class="" active-class="active">
-          <a><i class="zmdi zmdi-grid"></i><span>블록탐색기</span></a>
-          <ul class="ml-menu" style="display: block;">
-            <li><a href="/explorer/BTC" class=" waves-effect waves-block">비트코인</a></li>
-            <li><a href="/explorer/ETH" class=" waves-effect waves-block">이더리움</a></li>
-            <li><a href="/explorer/EOS" class=" waves-effect waves-block">EOS</a></li>
-            <li><a href="/explorer/XRP" class=" waves-effect waves-block">리플</a></li>
-          </ul>
-        </router-link>
-        <router-link to="/solution" tag="li" class="open" active-class="active">
-          <a><i class="zmdi zmdi-swap-alt"></i><span>솔루션</span></a>
-        </router-link>
-        <router-link to="/souvenir" tag="li" class="open" active-class="active">
-          <a><i class="zmdi zmdi-shopping-cart"></i><span>기념품샵</span></a>
-        </router-link>
-        <li class="open">
-          <Adsense
-            data-ad-client="ca-pub-7663265873201714"
-            data-ad-slot="3594394147">
-          </Adsense>
-        </li>
-      </ul>
-    </div>
-  </aside>
+  </div>
 </template>
 
 <style>
