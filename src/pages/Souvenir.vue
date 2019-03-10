@@ -23,8 +23,8 @@
                   </ul>
               </div>
               <div class="action">
-                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965');" class="btn btn-success waves-effect">네이버구매</a>
-                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965');" class="btn btn-danger waves-effect">옥션구매</a>
+                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994514502', 'shopPop');" class="btn btn-success waves-effect">네이버구매</a>
+                <a href="javascript:openPopup('http://itempage3.auction.co.kr/DetailView.aspx?itemno=B639421647', 'shopPop');" class="btn btn-danger waves-effect">옥션구매</a>
               </div>
             </div>
           </div>
@@ -41,8 +41,8 @@
                 </ul>
               </div>
               <div class="action">
-                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965');" class="btn btn-success waves-effect">네이버구매</a>
-                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965');" class="btn btn-danger waves-effect">옥션구매</a>
+                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965', 'shopPop');" class="btn btn-success waves-effect">네이버구매</a>
+                <a href="javascript:openPopup('http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B624641629', 'shopPop');" class="btn btn-danger waves-effect">옥션구매</a>
               </div>
             </div>
           </div>
@@ -52,15 +52,15 @@
             <div class="body product_item">
               <img src="/assets/images/crypto/c-title.jpg" alt="Product" class="img-fluid cp_img">
               <div class="product_details">
-                <a href="https://smartstore.naver.com/kchain/products/3994524965">암호화폐(가상화폐) 스티커셋 C</a>
+                <a href="https://smartstore.naver.com/kchain/products/3994538537">암호화폐(가상화폐) 스티커셋 C</a>
                 <ul class="product_price list-unstyled">
                   <li class="old_price">3,800원</li>
                   <li class="new_price">2,900원</li>
                 </ul>
               </div>
               <div class="action">
-                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965');" class="btn btn-success waves-effect">네이버구매</a>
-                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994524965');" class="btn btn-danger waves-effect">옥션구매</a>
+                <a href="javascript:openPopup('https://smartstore.naver.com/kchain/products/3994538537', 'shopPop');" class="btn btn-success waves-effect">네이버구매</a>
+                <a href="javascript:openPopup('http://itempage3.auction.co.kr/DetailView.aspx?ItemNo=B624644157', 'shopPop');" class="btn btn-danger waves-effect">옥션구매</a>
               </div>
             </div>
           </div>

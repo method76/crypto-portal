@@ -9,11 +9,11 @@
         <a href="https://www.instagram.com/kittychain_shop"><i class="zmdi zmdi-instagram"></i></a>&nbsp;
         <a href="https://twitter.com/KittychainI"><i class="zmdi zmdi-twitter-box"></i></a>&nbsp;
         <a href="https://github.com/method76"><i class="zmdi zmdi-github-box"></i></a>
-        <a href="https://medium.com/@method76"><img src="/assets/images/ic_medium.png"></a>
-        <a href="#"><i class="zmdi zmdi-youtube-play"></i></a>
+        <a href="https://medium.com/@method76" style="margin: 2px 3px;"><img src="/assets/images/ic_medium_inv.png"></a>
+        <a href="#"><i class="zmdi zmdi-youtube"></i></a>
       </div>
       <div class="col-lg-3 col-12">
-        <img class="float-right m-r-15" src="/assets/certs/positivessl_trust_seal_md_167x42.png">
+        <img class="float-right m-r-15" src="/assets/certs/positivessl_trust_seal_lg_222x54_mod.png">
       </div>
     </div>
   </div>
