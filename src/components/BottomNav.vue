@@ -13,7 +13,7 @@
         <a href="#"><i class="zmdi zmdi-youtube"></i></a>
       </div>
       <div class="col-lg-3 col-12">
-        <img class="float-right m-r-15" src="/assets/certs/positivessl_trust_seal_lg_222x54_mod.png">
+        <img class="float-right m-r-15 ssl" src="/assets/certs/positivessl_trust_seal_lg_222x54_mod.png">
       </div>
     </div>
   </div>
@@ -29,4 +29,5 @@ TrustLogo("/assets/certs/positivessl_trust_seal_md_167x42.png", "CL1", "none");
 .zmdi { font-size: 25px; }
 .container-fluid.footer .col-12 { padding: 10px; }
 .container-fluid.footer p, .container-fluid.footer a { color: white; }
+img.ssl { width: 106px;}
 </style>
